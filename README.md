@@ -1,10 +1,16 @@
-## [Home](https://github.com/degustatormind) | [Fitness](https://github.com/degustatormind) | [Food](https://github.com/degustatormind) | [Stories](https://github.com/degustatormind) | [Donation](https://github.com/degustatormind) | [AboutUs](#about) | [Contacts](#support-or-contact)
+## [Home](#home) | [Fitness](https://github.com/degustatormind) | [Food](https://github.com/degustatormind) | [Stories](https://github.com/degustatormind) | [Donation](#donation) | [AboutUs](#about) | [Contacts](#support-or-contact)
 
 You can check [my GitHub repos](https://degustatormind.github.io/Equal_Life/) to look at some interesting projects.
 
 You can also check [my YouTube channel](https://www.youtube.com/channel/UCWkmgaOcga0KJz6yNxhFhyA) if you like this content and way of thinking.
 
-### Markdown
+### Home
+
+### Fitness
+
+### Food
+
+### Stories
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
