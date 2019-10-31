@@ -1,9 +1,4 @@
-## About
-```markdown
-The "Equal Life" is a great archive of life solutions, stories and hacks, that has been collected in a single GitHub Page to serve as a guide for every individual in his life journey.
-```
-The project is made in **Easy to understand** format which is also very tight and powerfull, and it's going to break complicated things down in simple words.
-
+## [About](https://github.com/degustatormind) [Home](https://github.com/degustatormind) [Fitness](https://github.com/degustatormind) [Food](https://github.com/degustatormind) [Stories](https://github.com/degustatormind) 
 
 You can check [my GitHub repos](https://github.com/degustatormind) to look at some interesting projects.
 
@@ -40,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# About
+```markdown
+The "Equal Life" is a great archive of life solutions, stories and hacks, that has been collected in a single GitHub Page to serve as a guide for every individual in his life journey.
+```
+The project is made in **Easy to understand** format which is also very tight and powerfull, and it's going to break complicated things down in simple words.
