@@ -1,4 +1,4 @@
-## [Home](https://github.com/degustatormind) | [Fitness](https://github.com/degustatormind) | [Food](https://github.com/degustatormind) | [Stories](https://github.com/degustatormind) | [Contacts](https://github.com/degustatormind) | [Donation](https://github.com/degustatormind) | [AboutUs](https://github.com/degustatormind) 
+# [Home](https://github.com/degustatormind) | [Fitness](https://github.com/degustatormind) | [Food](https://github.com/degustatormind) | [Stories](https://github.com/degustatormind) | [Contacts](https://github.com/degustatormind) | [Donation](https://github.com/degustatormind) | [AboutUs](https://github.com/degustatormind) 
 
 You can check [my GitHub repos](https://github.com/degustatormind) to look at some interesting projects.
 
@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# About
+## About
 ```markdown
 The "Equal Life" is a great archive of life solutions, stories and hacks, that has been collected in a single GitHub Page to serve as a guide for every individual in his life journey.
 ```
