@@ -1,8 +1,9 @@
+## About
 ```markdown
-_The **Equal Life** is a great archive of life solutions, stories and hacks, that has been collected in a single GitHub Page to serve as a guide for every individual in his life journey._
+The "Equal Life" is a great archive of life solutions, stories and hacks, that has been collected in a single GitHub Page to serve as a guide for every individual in his life journey.
 ```
 
-You can use the [editor on GitHub](https://github.com/degustatormind/eQual-Life/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can check [my GitHub repos](https://github.com/degustatormind) to look at some interesting projects.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
