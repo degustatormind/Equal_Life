@@ -7,7 +7,7 @@ The project is made in **Easy to understand** format which is also very tight an
 
 You can check [my GitHub repos](https://github.com/degustatormind) to look at some interesting projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can also check [my YouTube channel](https://www.youtube.com/channel/UCWkmgaOcga0KJz6yNxhFhyA) if you like this content and way of thinking.
 
 ### Markdown
 
