@@ -1,6 +1,6 @@
 ## [Home](https://github.com/degustatormind) | [Fitness](https://github.com/degustatormind) | [Food](https://github.com/degustatormind) | [Stories](https://github.com/degustatormind) | [Contacts](https://github.com/degustatormind) | [Donation](https://github.com/degustatormind) | [AboutUs](https://github.com/degustatormind) 
 
-You can check [my GitHub repos](https://github.com/degustatormind) to look at some interesting projects.
+You can check [my GitHub repos](https://degustatormind.github.io/Equal_Life/) to look at some interesting projects.
 
 You can also check [my YouTube channel](https://www.youtube.com/channel/UCWkmgaOcga0KJz6yNxhFhyA) if you like this content and way of thinking.
 
