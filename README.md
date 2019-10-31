@@ -1,17 +1,17 @@
-## | [Health](#fitness) | [Food](#food) | [Stories](#stories) | [Doors](#doors) | [Donation](#donation) | [AboutUs](#about) | [Contacts](#support-or-contact)
+## [Health](#fitness) | [Food](#food) | [Stories](#stories) | [Doors](#doors) | [Donation](#donation) | [AboutUs](#about) | [Contacts](#support-or-contact)
 
 You can check [my GitHub repos](https://degustatormind.github.io/Equal_Life/) to look at some interesting projects.
 
 You can also check [my YouTube channel](https://www.youtube.com/channel/UCWkmgaOcga0KJz6yNxhFhyA) if you like this content and way of thinking.
 
 ### Fitness
-Here is some workout programms for any busiest man on the planet.
+Here is some workout programms for busiest man on the planet.
 
 ### Food
-Here is some healthy and delicious recipes of foods and goods.a
+Here is some healthy and delicious recipes of foods and goods.
 
 ### Doors
-This is going to be main page or link with picture of tips and balances.
+This is going to be the page with money making content.
 
 ### Stories
 
