@@ -1,4 +1,4 @@
-**The GitHub Page "Equal Life" is a great archive of life solutions, stories and hacks, that has been collected to serve as a guide for every individual in his life journey**
+**The _Equal Life_ is a great archive of life solutions, stories and hacks, that has been collected in a single GitHub Page to serve as a guide for every individual in his life journey**
 
 You can use the [editor on GitHub](https://github.com/degustatormind/eQual-Life/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
