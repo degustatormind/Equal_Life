@@ -1,4 +1,4 @@
-## [Home](https://github.com/degustatormind) | [Fitness](https://github.com/degustatormind) | [Food](https://github.com/degustatormind) | [Stories](https://github.com/degustatormind) | [Contacts](#support-or-contact) | [Donation](https://github.com/degustatormind) | [AboutUs](#about) 
+## [Home](https://github.com/degustatormind) | [Fitness](https://github.com/degustatormind) | [Food](https://github.com/degustatormind) | [Stories](https://github.com/degustatormind) | [Donation](https://github.com/degustatormind) | [AboutUs](#about) | [Contacts](#support-or-contact)
 
 You can check [my GitHub repos](https://degustatormind.github.io/Equal_Life/) to look at some interesting projects.
 
@@ -26,11 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Donation
+okex wallet 
+paypal
+charities
+startups
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/degustatormind/eQual-Life/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### About
 ```markdown
@@ -38,7 +39,9 @@ The "Equal Life" is a great archive of life solutions, stories and hacks, that h
 ```
 The project is made in **Easy to understand** format which is also very tight and powerfull, and it's going to break complicated things down in simple words.
 
+
 ### Support or Contact
 [degustatormind@gmail.com]
+
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out
