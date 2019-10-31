@@ -1,4 +1,4 @@
-<h2><a align="center"> [Health](#fitness) | [Food](#food) | [Stories](#stories) | [Doors](#doors) | [Donation](#donation) | [AboutUs](#about) | [Contacts](#support-or-contact)<a><h2>
+## [Health](#fitness) | [Food](#food) | [Stories](#stories) | [Doors](#doors) | [Donation](#donation) | [AboutUs](#about) | [Contacts](#support-or-contact)
 
 <p align="center">You can check [my GitHub repos](https://degustatormind.github.io/Equal_Life/) to look at some interesting projects.</p>
 
