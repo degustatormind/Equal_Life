@@ -1,4 +1,4 @@
-## [Home](https://github.com/degustatormind) | [Fitness](https://github.com/degustatormind) | [Food](https://github.com/degustatormind) | [Stories](https://github.com/degustatormind) | [Contacts](https://github.com/degustatormind) | [Donation](https://github.com/degustatormind) | [AboutUs](https://github.com/degustatormind) 
+## [Home](https://github.com/degustatormind) | [Fitness](https://github.com/degustatormind) | [Food](https://github.com/degustatormind) | [Stories](https://github.com/degustatormind) | [Contacts](https://github.com/degustatormind) | [Donation](https://github.com/degustatormind) | [AboutUs](#about) 
 
 You can check [my GitHub repos](https://degustatormind.github.io/Equal_Life/) to look at some interesting projects.
 
