@@ -2,7 +2,7 @@
 ```markdown
 The "Equal Life" is a great archive of life solutions, stories and hacks, that has been collected in a single GitHub Page to serve as a guide for every individual in his life journey.
 ```
-The project is made in "Easy to understand" format which is also very tight and powerfull, and it's going to break complicated things down in easy words.
+The project is made in **Easy to understand** format which is also very tight and powerfull, and it's going to break complicated things down in easy words.
 
 
 You can check [my GitHub repos](https://github.com/degustatormind) to look at some interesting projects.
