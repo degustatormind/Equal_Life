@@ -27,10 +27,10 @@ Syntax highlighted code block
 ```
 
 ### Donation
-##### okex wallet 
-###### paypal
-#### charities
-startups
+- okex wallet 
+- paypal
+- charities
+- startups
 
 
 ### About
